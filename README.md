@@ -1,2 +1,2 @@
 # pizzaApp
-program do obsługi pizzerii
+aplikacja do obsługi pizzerii
